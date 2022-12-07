@@ -12,3 +12,5 @@
  •	Se ejecutan los siguientes comandos para la creación del entorno en el contenedor:
   o	docker build –t
  •	Se debe incluir el archivo .dockerignore, para excluir las carpeta
+ El front-end se encuentra en el siguiente repositorio https://github.com/mateomh02/Spirnt-Ciclo-4
+ El backend se encuentra en el siguiente respositorio https://github.com/mateomh02/Sprint-Back-End/tree/main
